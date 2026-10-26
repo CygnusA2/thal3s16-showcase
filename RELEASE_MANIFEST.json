@@ -1,0 +1,36 @@
+{
+  "purpose": "Independent public project showcase; no private engine source or history",
+  "review": "Standalone tests, dependency/content scan, manual file review; not legal or eligibility clearance",
+  "files": [
+    {
+      "path": ".github/workflows/check.yml",
+      "sha256": "006031f4edd109b602bad2abdad71b1519ad0126f6138f76af2a87764fe239cf"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "4adaa2f02183ab51e168a2bc013e95e3f073ba9ffa37a85caaff92ad46d1d159"
+    },
+    {
+      "path": "DISCLOSURE.md",
+      "sha256": "f48cce2b26b3e12f4176566aa488a20e45bdbff68d925bd1176b39821412d021"
+    },
+    {
+      "path": "README.md",
+      "sha256": "813a7e04cf06c60fadbfd287cf86ff0b52f54904500bf7676d89bb9bd2789e8e"
+    },
+    {
+      "path": "example.py",
+      "sha256": "1836af9c139fce5e28046ca408e5298356385f3734c41535d062be308130cf78"
+    },
+    {
+      "path": "presentation.html",
+      "sha256": "7c4b93bb3e5b705c2ffb72350020c6ced826709effd1c63556912160ca17e00c"
+    },
+    {
+      "path": "tests/test_example.py",
+      "sha256": "331fe0c5f14e13b5c3857050e8a7e6c48612b179c88896eb5b21e660cb437c1e"
+    }
+  ],
+  "live_model_output": "NOT DEMONSTRATED; scripted examples only",
+  "license": "No open-source license selected"
+}
